@@ -223,6 +223,7 @@ Generating alerts when suspicious activity is detected.
 * Network security protects organizational networks and resources.
 * Cloud security focuses on protecting cloud-based assets and services.
 * Programming helps automate tasks, analyze traffic, and detect threats.
+* Performing security audits enables security professionals to review an organization's      security records, activities, and related documents. A penetration test is a simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes.
 
 
 ---
