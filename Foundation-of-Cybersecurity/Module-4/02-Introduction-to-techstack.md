@@ -22,7 +22,7 @@ An **Operating System (OS)** is the interface between computer hardware and the 
 ### Common Operating Systems
 - Linux
 - Windows
-- macOS
+- MacOS
 
 ### Linux
 - Open-source operating system
