@@ -1,4 +1,4 @@
-# Course 2 - Module 1: Security Frameworks, Controls, and Risk
+# Module 2: Security Frameworks, Controls, and Risk
 
 ## Terms and Definitions
 
