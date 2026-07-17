@@ -1,4 +1,4 @@
-# Course 2 - Module 2: SIEM Dashboards
+# SIEM Dashboards
 
 ## What is a SIEM Dashboard?
 
