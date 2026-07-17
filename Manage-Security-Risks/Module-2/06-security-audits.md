@@ -1,4 +1,4 @@
-# Course 2 - Module 1: Security Audits
+# Security Audits
 
 ## What is a Security Audit?
 
