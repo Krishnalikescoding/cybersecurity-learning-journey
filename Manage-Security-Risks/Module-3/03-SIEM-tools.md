@@ -1,4 +1,4 @@
-# Course 2 - Module 2: Current and Future of SIEM Tools
+# Current and Future of SIEM Tools
 
 ## What is a SIEM?
 
