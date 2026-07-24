@@ -1,4 +1,4 @@
-# Course 2 - Module 3: Network Protocols
+# Network Protocols
 
 ## What is a Network Protocol?
 
