@@ -1,4 +1,4 @@
-# Course 2 - Module 3: Common Network Protocols
+# Common Network Protocols
 
 ## Network Address Translation (NAT)
 
