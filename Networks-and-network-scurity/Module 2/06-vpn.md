@@ -9,7 +9,7 @@ A **Virtual Private Network (VPN)** is a network security service that:
 - Encrypts internet traffic
 - Protects data while it travels across the Internet
 
-VPNs help maintain **privacy** and **confidentiality**, especially when using public networks.
+VPNs help maintain **privacy** & **confidentiality**, especially when using public networks.
 
 ---
 
@@ -111,7 +111,6 @@ Security analysts use VPNs to:
 - Secure communication over public networks
 - Reduce the risk of data interception
 - Maintain user privacy
-- Protect sensitive organizational data in transit
 
 ---
 
@@ -121,4 +120,3 @@ Security analysts use VPNs to:
 - VPNs use **encapsulation** to wrap encrypted data inside another packet, allowing routers to forward traffic without exposing sensitive information.
 - An **encrypted tunnel** secures communication between the user's device and the VPN server, preventing unauthorized access to data in transit.
 - VPNs are especially valuable when using **public Wi-Fi** because they help protect confidential information from interception.
-- Security analysts rely on VPNs to secure remote access, protect sensitive data, and maintain confidentiality across untrusted networks.
