@@ -1,4 +1,4 @@
-# Module 4: DDoS Case Study (DNS Service Provider Attack - October 21, 2016)
+# DDoS Case Study (DNS Service Provider Attack - October 21, 2016)
 
 ## Background
 
