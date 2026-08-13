@@ -1,4 +1,4 @@
-# Course 2 - Module 4: Network Protocol Analyzers (tcpdump)
+# Network Protocol Analyzers (tcpdump)
 
 ## What is a Network Protocol Analyzer?
 
