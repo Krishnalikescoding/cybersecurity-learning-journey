@@ -96,6 +96,5 @@ Examples include:
 - A **user interface** allows users to interact with the operating system.
 - A **GUI** uses graphical elements such as icons, menus, and windows.
 - A **CLI** uses text-based commands to interact with the operating system.
-- GUIs are generally easier for beginners and provide visual interaction.
 - CLIs provide greater flexibility and are useful for repetitive, complex, and automated tasks.
 - Security analysts frequently use the **CLI** for activities such as log analysis and user management.
