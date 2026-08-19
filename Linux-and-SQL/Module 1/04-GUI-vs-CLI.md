@@ -91,8 +91,6 @@ Examples include:
 - Managing system resources
 - Performing security-related tasks
 
-Understanding the CLI is therefore an important skill for cybersecurity professionals.
-
 ## Key Takeaways
 
 - A **user interface** allows users to interact with the operating system.
