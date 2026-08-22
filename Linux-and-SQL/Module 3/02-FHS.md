@@ -3,6 +3,8 @@
 ## Overview
 The **Filesystem Hierarchy Standard (FHS)** is the component of Linux that organizes data. It defines how directories, directory contents, and other storage are structured within the operating system. A file's location under the FHS is described using a **file path** — the location of a file or directory, with hierarchy levels separated by a forward slash (`/`).
 
+![FHS](../../src/FHS.png)
+
 ## Key Concepts
 
 ### Root Directory
