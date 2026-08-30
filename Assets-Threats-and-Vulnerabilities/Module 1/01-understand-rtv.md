@@ -103,8 +103,6 @@ The three concepts are closely connected:
 3. **Vulnerabilities** are weaknesses that threats can exploit.
 4. When a **threat exploits a vulnerability**, the likelihood of harm to an asset increases.
 
-Understanding these relationships helps security professionals identify, assess, and manage security risks.
-
 ## Key Takeaways
 
 - **Risk** is anything that can impact the confidentiality, integrity, or availability of an asset.
