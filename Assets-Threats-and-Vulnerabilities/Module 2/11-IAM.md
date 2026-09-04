@@ -297,3 +297,20 @@ The identity and access management industry is growing rapidly. As with other ar
 
 - **IDPro:** A professional organization dedicated to sharing essential identity and access management industry knowledge.
   - https://idpro.org/
+
+## Key Takeaways
+
+- **Least Privilege:** Give users only the access they need.
+- **Separation of Duties:** Divide responsibilities to prevent one person from having too much control.
+- **IAM:** Manages digital identities and user access.
+- **AAA:** Authentication, Authorization, and Accounting.
+- **Authentication:** Verifies who the user is.
+- **Authorization:** Determines what the user can access.
+- **Provisioning:** Creates and maintains user access.
+- **Deprovisioning:** Removes unnecessary user access.
+- **MAC:** Access controlled by a central authority.
+- **DAC:** Access controlled by the data owner.
+- **RBAC:** Access based on the user's role.
+- **SSO:** One login for multiple resources.
+- **MFA:** Uses two or more authentication factors.
+- Both **IAM and AAA** help ensure the **right user** gets the **right resources** at the **right time** for the **right reasons**.
