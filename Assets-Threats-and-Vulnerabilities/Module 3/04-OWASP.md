@@ -4,7 +4,7 @@
 
 To prepare for future risks, security professionals need to stay informed. Previously, the **CVE list** was covered — an openly accessible dictionary of known vulnerabilities and exposures used by the global security community.
 
-This reading covers another key resource: the **Open Worldwide Application Security Project (OWASP)** (formerly the Open Web Application Security Project). It explains OWASP's role in the global security community and how companies use it to focus their security efforts.
+This reading covers another key resource: the **Open Worldwide Application Security Project (OWASP)** (formerly the Open Web Application Security Project). It explains OWASP's role in the global security community and how industries and companies use it to focus their security efforts.
 
 ## What Is OWASP?
 
