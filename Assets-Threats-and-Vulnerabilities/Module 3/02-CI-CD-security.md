@@ -109,7 +109,7 @@ A layered security approach is key to proactively addressing CI/CD vulnerabiliti
 1. **Integrate Security from the Start (DevSecOps):** Adopt a **DevSecOps** mindset — build security into every stage of development, from planning to deployment and beyond, including embedding security checks into the pipeline.
 2. **Implement Strong Access Controls:** Apply strict permission policies based on the **principle of least privilege**. Use **Multi-Factor Authentication (MFA)** and **RBAC** to secure the CI/CD environment.
 3. **Automate Security Testing Everywhere:** Make automated security scans a fundamental part of the build and deployment process. Tools like **SAST**, **Software Composition Analysis (SCA)**, and **DAST** are essential, not optional.
-4. **Keep Dependencies Updated:** Maintain a current inventory of third-party dependencies, libraries, and CI/CD plugins. Regularly update to patch known CVEs. Tools like **[Dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)** and **[Snyk](https://snyk.io/)()** can automate this process.
+4. **Keep Dependencies Updated:** Maintain a current inventory of third-party dependencies, libraries, and CI/CD plugins. Regularly update to patch known CVEs. Tools like **[Dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)** and **[Snyk](https://snyk.io/)** can automate this process.
 5. **Secure Secrets Management:** Never hardcode sensitive information. Use dedicated secrets management tools like **HashiCorp Vault** or **AWS Secrets Manager** to securely store, access, and rotate secrets.
 
 ## Common Vulnerabilities and Their Fixes
