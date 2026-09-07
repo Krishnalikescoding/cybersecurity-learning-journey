@@ -101,6 +101,9 @@ A well-known supply chain attack in which hackers injected malicious code into s
 * Companies store public and private information on **web servers**.
 * Normally, a request (e.g., clicking a link or button) is sent to a server, which validates the user, fetches the appropriate data, and returns it.
 * **SSRF:** An attack where a threat actor manipulates a server's normal operations to read or update other resources on that server.
+
+![server-side-forgery](../../src/server-side-forgery.png)
+
 * Possible when an application running on the server is vulnerable — malicious code can use that app to reach the host server and fetch unauthorized data.
 
 ## OWASP Top 10 Categories: Quick Reference
