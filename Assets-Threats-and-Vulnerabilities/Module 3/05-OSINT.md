@@ -56,7 +56,7 @@ A company's InfoSec team is responsible for protecting the network from potentia
 * Provide insights into cyber attacks.
 * Detect potential data exposures.
 * Evaluate existing defenses.
-* Identify unknown vulnerabilities.
+* Helps to identify unknown vulnerabilities.
 
 Collecting intelligence is sometimes part of the **vulnerability management process** — security teams may use OSINT to build profiles of potential targets and make data-driven decisions to improve defenses.
 
@@ -71,7 +71,7 @@ There is an enormous amount of open-source information available online, making 
 | **[VirusTotal](https://www.virustotal.com/gui/home/upload)** | Analyzes suspicious files, domains, URLs, and IP addresses for malicious content |
 | **[MITRE ATT&CK®](https://attack.mitre.org/)** | A knowledge base of adversary tactics and techniques based on real-world observations |
 | **[OSINT Framework](https://osintframework.com/)** | A web-based interface for finding OSINT tools for almost any source or platform |
-| **[Have I Been Pwned](https://haveibeenpwned.com/)** | Searches for breached email accounts |
+| **[Have I Been Pwned](https://haveibeenpwned.com/)** | A tool that can be used to search for breached email accounts. |
 
 Many other OSINT tools exist for finding specific types of information. It is the security professional's responsibility to thoroughly research any information relevant to the problem being solved.
 
