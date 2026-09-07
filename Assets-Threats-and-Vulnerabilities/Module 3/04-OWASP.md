@@ -124,5 +124,5 @@ A well-known supply chain attack in which hackers injected malicious code into s
 ## Key Takeaways
 
 * Staying informed about current cybersecurity trends helps defend against attacks and prepare for future risks.
-* The **OWASP Top 10** is a valuable resource for learning about the most common and impactful web application vulnerabilities.
+* The **[OWASP Top 10](https://owasp.org/www-project-top-ten/)** is a valuable resource for learning about the most common and impactful web application vulnerabilities.
 * Unlike the CVE list (which tracks specific known flaws), the OWASP Top 10 primarily shapes how **new software is designed** to avoid common security mistakes from the start.
