@@ -28,7 +28,7 @@
 - Every software has a lifecycle: created → superseded by newer version → EOL.
 - EOL = manufacturer no longer supports/updates it, even though still usable.
 - **Patches/updates ≠ upgrades** (upgrades = new purchased versions of hardware/software).
-- CISA recommends discontinuing EOL software (unfixable risk) — but not always followed due to replacement costs.
+- [CISA recommends discontinuing EOL software (unfixable risk)](https://www.cisa.gov/news-events/news/understanding-patches-and-software-updates) — but not always followed due to replacement costs.
 - Risk grows with more connected/IoT devices (e.g., smart bulbs); one unpatched device can expose a whole network.
 
 ## Key Takeaways
