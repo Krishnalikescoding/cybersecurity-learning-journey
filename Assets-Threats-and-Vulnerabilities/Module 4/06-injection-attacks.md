@@ -46,7 +46,7 @@
   - **Input validation** – programming that checks user input matches the system's expected format (length, type, characters, etc.) before processing it.
 - Best practice: use a **combination** of these techniques rather than relying on just one.
 - Security professionals often need to **collaborate with application developers** to identify and close these gaps.
-- Resource: **OWASP's SQL Injection Detection Techniques** guide — useful for investigating vulnerabilities firsthand.
+- Resource: **[OWASP's SQL Injection Detection Techniques](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)** guide — useful for investigating vulnerabilities firsthand.
 
 ## Key Takeaways
 - SQL injection is common largely *because* of SQL's widespread use in web applications.
