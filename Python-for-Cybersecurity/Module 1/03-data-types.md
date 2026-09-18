@@ -1,4 +1,4 @@
-# Python Data Types – Notes
+# Python Data Types 
 
 ## Core Data Types
 
