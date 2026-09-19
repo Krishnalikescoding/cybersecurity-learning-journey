@@ -1,4 +1,4 @@
-# Python Conditional Statements – Notes
+# Python Conditional Statements 
 
 ## What is a Conditional Statement?
 - Evaluates code to check whether it meets a specific condition.
