@@ -1,4 +1,4 @@
-# Python Loops – Notes
+# Python Loops 
 
 ## What is an Iterative Statement?
 - Code that repeatedly executes a set of instructions.
