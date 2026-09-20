@@ -1,4 +1,4 @@
-# Python Functions in Cybersecurity – Notes
+# Python Functions in Cybersecurity 
 
 ## What is a Function?
 - A **function** is a reusable section of code within a program.
@@ -54,7 +54,7 @@ if email_status == "potential concern":
 ```
 - Only the first condition (`application_status`) is True → prints "application_log:" and calls the function.
 - The second condition (`email_status`) is False → nothing prints for it.
-- Functions can be called from many different places in code, including inside conditionals.
+- Functions can be called from many different places in code, including inside conditional statements.
 
 ## Caution: Infinite Loops
 - Calling a function **inside its own definition** (recursion) without a stopping condition creates an **infinite loop**.
