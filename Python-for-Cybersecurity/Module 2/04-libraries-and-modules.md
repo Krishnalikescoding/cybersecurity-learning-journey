@@ -1,6 +1,6 @@
 # Python Libraries & Modules 
 
-## Recap: Modules vs. Libraries
+## Modules vs. Libraries
 - **Module**: a Python file containing functions, variables, classes, and other runnable code.
 - **Library**: a collection of modules providing reusable code.
 
