@@ -69,4 +69,4 @@ print(time_list)           # original, unsorted list unchanged
 - **`sorted()`** – returns a sorted version of an iterable (original stays unchanged).
 
 ## Further Resources
-- Python Standard Library documentation — full list of built-in functions.
+- [Python Standard Library documentation](https://docs.python.org/3/library/functions.html) — full list of built-in functions.
