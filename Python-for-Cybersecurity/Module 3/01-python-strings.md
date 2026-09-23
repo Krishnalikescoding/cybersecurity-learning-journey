@@ -24,7 +24,7 @@ print(type(new_string))   # <class 'str'>
 - **Cybersecurity use case**: IPv4 addresses have a max of 15 characters — `len()` can check if an address is valid.
 
 ```python
-print(len("Hello"))   # 5
+print(len("Hello"))   #5
 ```
 
 ### String Concatenation
@@ -59,4 +59,3 @@ print("Hello".lower())   # hello
 - `len()` returns character count — useful for validation tasks (e.g., IP address length).
 - `+` concatenates strings; other math operators don't apply.
 - String methods (`.upper()`, `.lower()`) are called with dot notation after the string.
-- Coming up: indexing and splitting strings.
