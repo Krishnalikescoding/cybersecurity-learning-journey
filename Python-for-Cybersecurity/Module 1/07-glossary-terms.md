@@ -22,3 +22,6 @@
 - **Tuple data**: Data structure that consists of a collection of data that cannot be changed
 - **Type error**: An error that results from using the wrong data type
 - **Variable**: A container that stores data
+
+## Refrence Guide - [Reference guide: Python concepts from module 1 
+](https://docs.google.com/document/d/1g01BIeiQtyFillHBNQMegGjbSzePkCj8nT-O4v1k8Gs/template/preview?usp=sharing&resourcekey=0-VdiTfxrHUssEh0I7P2z4LQ)
