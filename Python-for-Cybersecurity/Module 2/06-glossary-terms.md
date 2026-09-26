@@ -16,3 +16,4 @@
 - **Style guide**: A manual that informs the writing, formatting, and design of documents
 - **User-defined function**: A function that programmers design for their specific needs
 
+## Refrence Guide - [Reference guide: Python concepts from module 2](https://docs.google.com/document/d/19kQXJP2L5P4_jBOhW8D9IyA4ewaQj1QWv1-Lp2HL0YU/template/preview?resourcekey=0-fcyLEIA6lINwqu6dTvTM0g#heading=h.6eikvmfmqupl)
