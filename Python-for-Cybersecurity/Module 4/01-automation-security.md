@@ -57,9 +57,6 @@ Works with **Jenkins, GitLab CI, CircleCI**.
 - DevSecOps means security is built in, not added later.
 - Python gives a pipeline that is faster, more efficient, and more secure.
 
-## Next Topics (in the course)
-Variables, conditional statements, iterative statements (loops), functions, and working with files. These are the basic building blocks for writing security automation scripts.
-
 ## Quick Memory Hook
 **SAST** = scan code (static) | **DAST** = test running app | **SCA** = check dependencies
 
