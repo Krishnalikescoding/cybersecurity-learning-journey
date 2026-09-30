@@ -61,9 +61,6 @@ def count_logins(flagged_user, login_list):
 - **.txt**: no fixed format. Values may be separated by spaces or other ways.
 - Data can be easily extracted from both and converted to other formats.
 
-### Coming up
-Import files, read from them, write to them, and structure the information inside.
-
 ## Key Takeaways
 - Automating tasks is a key skill for security analysts.
 - Needs: variables, conditionals, iterative statements, string and list techniques.
