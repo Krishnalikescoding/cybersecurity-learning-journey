@@ -29,6 +29,8 @@ with open("update_log.txt", "r") as file:
   - `open("/home/analyst/logs/access_log.txt", "r")`
 - Paths are strings, so keep them in quotation marks.
 
+![importing-file](../../src/importing-file.png)
+
 ### Modes (second parameter)
 
 | Mode | Meaning |
