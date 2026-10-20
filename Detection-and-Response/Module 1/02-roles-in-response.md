@@ -91,3 +91,15 @@ An organizational unit dedicated to monitoring networks, systems, and devices fo
 - **Escalation path:** L1 to L2 to L3 (analysts in a CSIRT escalate to the technical lead)
 - **Command / control / communication:** leadership, technical management, keeping stakeholders informed
 - **Blue team:** the defenders
+
+---
+
+## Resources for more Information
+
+Here are some resources if you’d like to learn more about SOC organization or explore other incident response roles:
+
+- [The security operations ecosystem](https://chronicle.security/blog/posts/soc-ecosystem-infographic/)
+- [Cyber career pathways tool](https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool)
+- [Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c)
+ at Google: Episode 2 of the [Hacking Google](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
+ series of videos
