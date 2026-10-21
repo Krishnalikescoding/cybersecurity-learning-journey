@@ -36,6 +36,8 @@ The SIEM process consists of three main steps:
 - **Aggregation:** Combining log data from different sources into one centralized location.
 - It eliminates the need to check each device separately.
 
+![SIEM-aggregation](../../src/aggregate-SIEM.png)
+
 **Parsing:**
 - Parsing extracts fields and their corresponding values from raw logs.
 - It makes log data easier to read and understand.
@@ -57,6 +59,8 @@ Parsed fields:
 - **Normalization:** Converting collected data into a standard, structured format.
 - Makes data easier to search, compare, and analyze.
 - Helps SIEM process logs from different systems consistently.
+
+![normalize-data](../../src/normalize-SIEM.png)
 
 ### Step 3: Analyze Data
 - SIEM analyzes collected, aggregated, and normalized logs.
