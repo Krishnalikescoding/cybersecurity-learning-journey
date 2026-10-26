@@ -101,3 +101,7 @@ Note: These modes do not provide access to all traffic across an entire network.
 - Packet captures store captured traffic for further investigation.
 - Wireshark, tcpdump, and TShark are common network analysis tools.
 - Libpcap, WinPcap, Npcap, and PCAPng are associated with packet capture.
+
+## 8. Resources for more information
+- This Infosec article describes the risks of [packet crafting](https://www.infosecinstitute.com/resources/hacking/packet-crafting-a-serious-crime/)
+, a technique used to test a network’s structure.
