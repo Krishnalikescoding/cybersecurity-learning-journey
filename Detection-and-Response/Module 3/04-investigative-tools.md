@@ -31,13 +31,11 @@
 
 **Example:** An organization discovers a malicious file and shares its details through a threat intelligence service, helping other organizations detect the same threat.
 
-## 3. VirusTotal
+## 3. [VirusTotal](https://www.virustotal.com/gui/home)
 - **Definition:** An online service used to analyze suspicious files, file hashes, domains, URLs, and IP addresses.
 - Helps determine whether an artifact may be malicious.
 - Combines detection results from multiple security vendors.
 - Provides information about relationships between IoCs and observed malicious behavior.
-
-Website: https://www.virustotal.com/gui/home
 
 ### VirusTotal Report Sections
 
