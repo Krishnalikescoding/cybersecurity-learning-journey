@@ -1,0 +1,28 @@
+# Module 3: Terms and Definitions
+
+- **Analysis:** Investigating and validating security alerts.
+- **Broken Chain of Custody:** Inconsistencies in collecting, handling, or logging evidence.
+- **Business Continuity Plan (BCP):** A document outlining procedures to maintain business operations during and after major disruptions.
+- **Chain of Custody:** Documentation of evidence possession and control throughout an incident.
+- **Containment:** Limiting and preventing further damage caused by an incident.
+- **Crowdsourcing:** Gathering information through public input and collaboration.
+- **Detection:** Prompt discovery of security events.
+- **Documentation:** Recorded content used for a specific purpose.
+- **Eradication:** Completely removing incident-related threats from affected systems.
+- **Final Report:** Documentation providing a comprehensive review of an incident.
+- **Honeypot:** A decoy system or resource designed to attract attackers.
+- **Incident Response Plan:** A document outlining procedures for each stage of incident response.
+- **Indicators of Attack (IoAs):** Observed events or behaviors indicating an ongoing attack.
+- **Indicators of Compromise (IoCs):** Observable evidence suggesting a potential security incident.
+- **Intrusion Detection System (IDS):** A system that monitors activity and alerts on possible intrusions.
+- **Lessons Learned Meeting:** A meeting held after a major incident to evaluate the response and identify improvements.
+- **Open-Source Intelligence (OSINT):** Collecting and analyzing publicly available information to produce useful intelligence.
+- **Playbook:** A manual containing detailed instructions for operational actions.
+- **Post-Incident Activity:** Reviewing an incident to identify improvements in incident handling.
+- **Recovery:** Returning affected systems to normal operations.
+- **Resilience:** The ability to prepare for, respond to, and recover from disruptions.
+- **Standards:** References that guide the creation of policies and procedures.
+- **Threat Hunting:** Proactively searching for threats within a network.
+- **Threat Intelligence:** Evidence-based information providing context about existing or emerging threats.
+- **Triage:** Prioritizing incidents according to importance or urgency.
+- **VirusTotal:** A service for analyzing suspicious files, domains, URLs, and IP addresses for potential malicious content.
