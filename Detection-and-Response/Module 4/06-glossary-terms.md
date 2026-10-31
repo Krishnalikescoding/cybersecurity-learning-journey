@@ -1,0 +1,27 @@
+# Module 4: Terms and Definitions
+
+- **Anomaly-Based Analysis:** A detection method that identifies abnormal behavior by comparing activity against a baseline.
+- **Array:** A data type that stores data in an ordered list of values.
+- **Common Event Format (CEF):** A log format that uses structured fields and key-value pairs to organize event data.
+- **Configuration File:** A file used to configure the settings of an application.
+- **Endpoint:** Any device connected to a network.
+- **Endpoint Detection and Response (EDR):** An application that monitors endpoints for malicious activity.
+- **False Positive:** An alert that incorrectly identifies normal activity as a threat.
+- **Host-Based Intrusion Detection System (HIDS):** An application that monitors the activity of the host on which it is installed.
+- **Intrusion Detection System (IDS):** An application that monitors system activity and alerts on possible intrusions.
+- **Key-Value Pair:** A set of two linked items consisting of a key and its corresponding value.
+- **Log:** A record of events occurring within an organization's systems.
+- **Log Analysis:** The process of examining logs to identify events of interest.
+- **Log Management:** The process of collecting, storing, analyzing, and disposing of log data.
+- **Logging:** The recording of events occurring on computer systems and networks.
+- **Network-Based Intrusion Detection System (NIDS):** An application that collects and monitors network traffic and data.
+- **Object:** A data type that stores data in a collection of key-value pairs.
+- **Search Processing Language (SPL):** Splunk's query language used to search and analyze log data.
+- **Security Information and Event Management (SIEM):** A tool that collects and analyzes log data to monitor critical activities within an organization.
+- **Signature:** A pattern associated with malicious activity.
+- **Signature Analysis:** A detection method that identifies events of interest by matching activity against known signatures.
+- **Suricata:** An open-source intrusion detection system, intrusion prevention system, and network analysis tool.
+- **Telemetry:** The collection and transmission of data for analysis.
+- **Wildcard:** A special character that can be substituted with any other character or set of characters.
+- **YARA-L:** A computer language used to create rules for searching through ingested log data.
+- **Zero-Day:** An exploit that takes advantage of a previously unknown vulnerability.
