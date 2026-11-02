@@ -1,4 +1,4 @@
-# Course 8 – Module 1: Glossary
+# Module 1: Terms and Definition
 
 | Term | Definition |
 |---|---|
