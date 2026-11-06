@@ -61,7 +61,7 @@ My goal is to maintain organized notes, strengthen my cybersecurity fundamentals
 **Certificate:** Google Cybersecurity Professional Certificate  
 **Provider:** Google  
 **Platform:** Coursera  
-**Courses Completed:** 9
+**Courses Completed:** 8
 
 ---
 
